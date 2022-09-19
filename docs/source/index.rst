@@ -9,7 +9,7 @@ RunBit
 .. toctree::
    :maxdepth: 2
 
-   Runbit DAO经济模型
-   Runbit DAO游戏规则
-   RunBit游戏操作流程介绍
-   UPswap操作流程介绍
+   economic_model
+   game_rules
+   game_introduction
+   UPswap
