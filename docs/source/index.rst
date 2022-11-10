@@ -8,7 +8,9 @@ RunBit
 
 .. toctree::
    :maxdepth: 2
-   economic_model.rst
-   game_rules.rst
-   game_introduction.rst
-   UPswap.rst
+
+   runbit_introduction
+   economic_model
+   game_rules
+   game_introduction
+   UPswap
