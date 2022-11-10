@@ -7,7 +7,7 @@ RunBit
 ==================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    runbit_introduction
    economic_model
    game_rules
