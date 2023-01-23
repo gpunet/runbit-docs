@@ -2,7 +2,7 @@ RunBit游戏操作流程介绍
 ======================
 进入游戏
 ----------
-打开 :guilabel:`imtoken` 或者 :guilabel:`TokenPocket` 等钱包，选择Matic（Polygon）链，在DAPP浏览器栏输入游戏地址https://game.runbit.org，点击打开。
+打开 :guilabel:`imtoken` 或者 :guilabel:`TokenPocket` 等钱包，选择Matic（Polygon）链，在DAPP浏览器栏输入游戏地址https://game.runbit.io，点击打开。
 
 .. _fig_0101:
 .. figure:: img/1.jpg
@@ -21,7 +21,7 @@ RunBit游戏操作流程介绍
 绑定计步APP
 ------------
 首先通过手机浏览器下载安装计步APP，下载地址
-https://game.runbit.org/appdownload/runbit.apk
+https://game.runbit.io/appdownload/runbit.apk
 安装完成后打开APP，在右上角输入框中输入自己的钱包地址，进行绑定。
 
 
@@ -33,7 +33,7 @@ https://game.runbit.org/appdownload/runbit.apk
 
 购买装备和属性卡
 -----------------
-点击商店，选择要购买的装备或者属性卡，确认购买。首次购买会弹出授权弹窗，点击 :guilabel:`授权`，授权会消耗少量MATIC作为GAS费。再次点击进行购买，支付相应的RB购买。要保证钱包里有足够的RB和MATIC。购买的装备和属性卡可在背包中查看。
+点击商店，选择要购买的装备或者属性卡，确认购买。首次购买会弹出授权弹窗，点击 :guilabel:`授权`，授权会消耗少量MATIC作为GAS费。再次点击进行购买，支付相应的RT购买。要保证钱包里有足够的RT和MATIC。购买的装备和属性卡可在背包中查看。
     
 
 .. figure:: img/4-1.jpg
@@ -46,31 +46,28 @@ https://game.runbit.org/appdownload/runbit.apk
 
 给装备添加属性卡
 -----------------
-打开背包，选择要添加属性卡的装备，比如鞋子，上衣或裤子。打开选择的装备，点击 :guilabel:`+`，选择要添加的属性卡，确认添加。
+打开背包，选择要装备的部件，比如鞋子，上衣，裤子，然后进行装备。在首页选择已经添加的装备，点击 :guilabel:`+`，选择要添加的属性卡，确认添加。会有进行授权的过程，消耗一点点GAS。
    
 
 .. figure:: img/5-1.jpg 
 .. figure:: img/5-2.jpg 
 .. figure:: img/5-3.jpg
+.. figure:: img/5-4.jpg
 
 选择赛道，添加装备
 ------------------
 1. 点击赛道，选择好赛道后进行确定。
 
 .. 注意::
-    选择好赛道后需要添加对应的装备，否则会减少收益。
+    注意：跑道的选择要和装备对应，不然会减少收益，比如石子路必须穿鞋子。
 
 .. figure:: img/6-1.jpg 
 .. figure:: img/6-2.jpg 
 
 
+2. 卸下装备
 
-
-
-
-1. 添加和卸下装备
-
-+ 添加装备：选择好赛道后，要对应赛道添加装备，比如石子路必须穿鞋子。点击人物上的对应 :guilabel:`+`，上中下分别为上衣、裤子、鞋子。点击后选择对应的装备进行添加。添加完成后如图所示。
++ 点加圆圈即可添加装备
 + 卸下装备：点击要卸下装备的部位，点击打开后，点击 :guilabel:`卸下`，授权进行卸下装备。卸下后将不再获得对应的收益。
  
 .. figure:: img/6-3.jpg 
@@ -89,16 +86,11 @@ https://game.runbit.org/appdownload/runbit.apk
 .. figure:: img/7-2.jpg 
 
 
-
-
-
 合成更高级装备
 --------------------
 打开背包，点击“去合成”，添加2个等级和类型相同的装备，点击“合成”，支付一定的合成费用，合成高一级别的装备。合成后可在背包中查看。
 
 .. figure:: img/8-1.jpg 
-.. figure:: img/8-2.jpg 
-.. figure:: img/8-3.jpg 
 
 查看和提取收益
 ------------------
@@ -109,4 +101,3 @@ https://game.runbit.org/appdownload/runbit.apk
 .. figure:: img/9-1.jpg 
 .. figure:: img/9-2.jpg 
 .. figure:: img/9-3.jpg 
-.. figure:: img/9-4.jpg 
