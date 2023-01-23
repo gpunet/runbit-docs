@@ -25,14 +25,14 @@ UPswap操作流程介绍
  
 .. figure:: img/upswap-3-1.jpg  
 
-选择要添加的交易对，选择USDT和RB币对。选择好后如下图所示。
+选择要添加的交易对，选择USDT和RT币对。选择好后如下图所示。
 设置兑换率范围，保证“当前兑换率”界于“最低兑换率”和“最高兑换率”之间。
 
 .. figure:: img/upswap-3-2.jpg 
 .. figure:: img/upswap-3-3.jpg 
 .. figure:: img/upswap-3-4.jpg  
    
-输入要抵押的数量（输入USDT或RB均可），输入任何一个币的数量会自动填补另一个币所需数量。然后点击 :guilabel:`批准USDT` 和  :guilabel:`批准RB` 进行授权，授权完成后点击 :guilabel:`预览` ，确认无误后进行添加。
+输入要抵押的数量（输入USDT或RT均可），输入任何一个币的数量会自动填补另一个币所需数量。然后点击 :guilabel:`批准USDT` 和  :guilabel:`批准RT` 进行授权，授权完成后点击 :guilabel:`预览` ，确认无误后进行添加。
    
 .. figure:: img/upswap-3-5.jpg 
 .. figure:: img/upswap-3-6.jpg 
